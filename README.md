@@ -1,1 +1,1 @@
-# FUN_imageCompressor_2019
+# myProject
